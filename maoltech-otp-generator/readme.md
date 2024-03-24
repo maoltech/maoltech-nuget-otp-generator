@@ -2,6 +2,7 @@
 
 Maoltech OTP Generator is a simple library for generating one-time passwords (OTPs) in various formats including numeric, alphanumeric, and alphabetic. It provides a convenient way to generate secure OTPs for authentication, verification, or any other use case where temporary codes are required.
 
+
 ## Installation
 
 You can install the Maoltech OTP Generator NuGet package via the NuGet Package Manager Console:
@@ -45,7 +46,6 @@ class Program
 
 ## Supported Token Types
 The Maoltech OTP Generator supports the following token types:
-
 
 numeric: Contains only numeric characters (0-9).
 alphanumeric: Contains alphanumeric characters (A-Z, a-z, and 0-9).
