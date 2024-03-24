@@ -46,6 +46,7 @@ class Program
 ## Supported Token Types
 The Maoltech OTP Generator supports the following token types:
 
+
 numeric: Contains only numeric characters (0-9).
 alphanumeric: Contains alphanumeric characters (A-Z, a-z, and 0-9).
 alphabetic: Contains only alphabetic characters (A-Z and a-z).
